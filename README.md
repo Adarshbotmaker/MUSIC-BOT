@@ -8,7 +8,7 @@
 
 💡 This is a Advanced Telegram CHAT Bot For Best AI Experience made by skyboy
 
-![logo](https://telegra.ph/file/a2bf8c1ae3e2c247a23fa.jpg)
+![logo] https://telegra.ph/file/f4e9816efc8f2f131f7f4.jpg
 
 #  💡Dᴇᴠ
 
