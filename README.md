@@ -65,10 +65,3 @@
 ```
 
 #
-Deploy skyboy music on 😧herekou
-Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyXMusic)
-
-
-Genrate string session
-
-https://repl.it/badge/github/ChankitSaini/GenerateStringSession
