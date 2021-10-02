@@ -8,6 +8,15 @@ JUST CONTACT ME ON TELEGRAM
 
 https://t.me/Skyboy_allrounderbot
 
+Commands for bot
+
+/play-  to play music
+
+/skip - to skip music
+
+/song - to download any song
+
+/end - to end vc
 
 
 
