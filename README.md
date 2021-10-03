@@ -1,20 +1,15 @@
 # MUSIC-BOT
- a powerful music bot
-    <a  <img " /></a>
-
-</p>
-
-
+  A powerful music bot
 
 💡 This is a Advanced Telegram CHAT Bot For Best AI Experience made by skyboy
 
-![logo] https://telegra.ph/file/f4e9816efc8f2f131f7f4.jpg
+![logo](https://telegra.ph/file/f4e9816efc8f2f131f7f4.jpg)
 
 #  💡Dᴇᴠ
 
-👥[Here !](https://t.me/disscusionof_logogiveways
+👥[Here](https://t.me/disscusionof_logogiveways)
 
-## Me On Telegram As https://t.me/disscusionof_logogiveways
+## Me On Telegram [As](https://t.me/disscusionof_logogiveways)
 
 ## Cᴏᴍcommamds
 
@@ -48,9 +43,7 @@
 
 ❍ /player - open music player settings panel
 
-❍ /pause - pause song playalign="center"><a href="https://heroku.com/deploy?template=https://github.com/anglefree/quicktriviav4"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
-
- 
+❍ /pause - pause song play
 
 ❍ /resume - resume song play
 
@@ -63,5 +56,5 @@
 ❍ /admincache - Refresh admin list
 
 ```
-
-#
+## Deploy
+<a href="https://heroku.com/deploy?template=https://github.com/anglefree/quicktriviav4"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png">
